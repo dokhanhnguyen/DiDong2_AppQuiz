@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amulyakhare:com.amulyakhare.textdrawable:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ff88aa2377b9ffbe7e59e8f0ba0b86a/com.amulyakhare.textdrawable-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51efd00e3e74cbd2073fbe0af3d18bf8/com.amulyakhare.textdrawable-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e65ef6d41950d3a5c7402aa1ae2baabc/com.amulyakhare.textdrawable-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/res" />
+      <root url="jar://U:/gradle-6.9.1/caches/transforms-2/files-2.1/0879329c4b2c78a2e544fe44d1c46982/com.amulyakhare.textdrawable-1.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/464f77c149aad9f5dbb3aaf846cd52d57b61df4b/com.amulyakhare.textdrawable-1.0.1-sources.jar!/" />
+      <root url="jar://U:/gradle-6.9.1/caches/modules-2/files-2.1/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/464f77c149aad9f5dbb3aaf846cd52d57b61df4b/com.amulyakhare.textdrawable-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

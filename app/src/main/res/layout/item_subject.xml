@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="8dp"
+    app:cardBackgroundColor="@color/white"
+    android:layout_margin="@dimen/margin_mini"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:padding="@dimen/margin_small"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_id"
+            android:layout_toEndOf="@+id/iv_icon"
+            android:textAlignment="textEnd"
+            tools:text="ID: 101"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:contentDescription="@string/app_name"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            android:src="@drawable/img_demo_subject" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_below="@+id/iv_icon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginTop="@dimen/margin_small"
+            android:textColor="@color/black"
+            tools:text="Những nguyên lí cơ bản của CN Mác-Lênin" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

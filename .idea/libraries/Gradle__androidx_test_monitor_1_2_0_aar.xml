@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8142c3a5524ea0c66f4c95e7c2000cfd/monitor-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/327b171833e5a88e8dbe7cf61e3b9d52/monitor-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd36868e8e0abaace928186785bab122/monitor-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/jars/classes.jar!/" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/AndroidManifest.xml" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/res" />
+      <root url="jar://U:/gradle-6.9.1/caches/transforms-2/files-2.1/dc08f1503c44ba165a4804757c096efc/monitor-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/2af6ec82fa4b1151212001e83514ccb39f360adc/monitor-1.2.0-javadoc.jar!/" />
+      <root url="jar://U:/gradle-6.9.1/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/2af6ec82fa4b1151212001e83514ccb39f360adc/monitor-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/dbbc3050e0945ecea95f4e25b72e169cfe6f32bc/monitor-1.2.0-sources.jar!/" />
+      <root url="jar://U:/gradle-6.9.1/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/dbbc3050e0945ecea95f4e25b72e169cfe6f32bc/monitor-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

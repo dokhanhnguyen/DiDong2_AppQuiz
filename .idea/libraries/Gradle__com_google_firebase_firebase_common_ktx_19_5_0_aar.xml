@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-common-ktx:19.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/AndroidManifest.xml" />
+      <root url="jar://U:/gradle-6.9.1/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/jars/classes.jar!/" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/res" />
+      <root url="file://U:/gradle-6.9.1/caches/transforms-2/files-2.1/d7075b4941bc88c86aca32a3d717bf4b/firebase-common-ktx-19.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-common-ktx/19.5.0/62ff403ec5cfff4e1e375459709bb9e63a233e3/firebase-common-ktx-19.5.0-javadoc.jar!/" />
+      <root url="jar://U:/gradle-6.9.1/caches/modules-2/files-2.1/com.google.firebase/firebase-common-ktx/19.5.0/62ff403ec5cfff4e1e375459709bb9e63a233e3/firebase-common-ktx-19.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

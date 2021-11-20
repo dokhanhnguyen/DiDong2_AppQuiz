@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:menu="@menu/menu_practice"
+        android:background="?attr/colorPrimary"
+        app:contentInsetStart="0dp"
+        app:contentInsetEnd="0dp"
+        app:titleTextColor="@color/white"
+        app:title="Những nguyên lí cơ bản của chủ nghĩa Mac- Lênin"
+        app:titleTextAppearance="@style/TitleText"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <appchoice.student.quiz.views.AutoRecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_margin="@dimen/margin_mini"
+            android:columnWidth="328dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_centerInParent="true"
+            android:text="@string/status_practice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

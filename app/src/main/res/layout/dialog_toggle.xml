@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:padding="20dp"
+    android:id="@+id/layout_dialog">
+
+    <androidx.core.widget.NestedScrollView
+        android:background="@drawable/bg_dialog_corner_all"
+        android:layout_margin="@dimen/margin_medium"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_margin="@dimen/margin_medium"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="@string/filter_subject"
+                android:textColor="#2979FF"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Chọn khoá"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <appchoice.student.quiz.views.AutoRecyclerView
+                android:id="@+id/recycler_view_year"
+                android:columnWidth="168dp"
+                android:layout_marginTop="@dimen/margin_mini"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:text="Chọn khoa"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginTop="@dimen/margin_small"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_view_faculty"
+                android:layout_marginTop="@dimen/margin_mini"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <ImageButton
+        android:id="@+id/bt_confirm"
+        android:contentDescription="@string/close"
+        android:src="@drawable/ic_confirm"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/bg_button_dialog"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+
+</RelativeLayout>

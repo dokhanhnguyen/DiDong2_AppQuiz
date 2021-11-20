@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin_medium"
+    android:background="@drawable/bg_dialog_corner_all">
+
+    <TextView
+        android:id="@+id/tv_title"
+        tools:text="Đăng xuất"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_message"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        tools:text="Bạn có muốn đăng xuất khỏi tài khoản huuhaiappchoice?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/margin_large"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:text="@string/cancel"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_marginEnd="@dimen/margin_small"
+            android:background="@drawable/bg_button_square_cyan"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:id="@+id/tv_confirm"
+            android:text="@string/confirm"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_marginStart="@dimen/margin_small"
+            android:background="@drawable/bg_button_square_yellow"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+</LinearLayout>

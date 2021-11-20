@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/nested_scroll_view">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <appchoice.student.quiz.views.AutoRecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_margin="@dimen/margin_mini"
+            android:columnWidth="328dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_marginTop="@dimen/margin_large"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone"
+            android:textColor="@color/white"
+            android:text="@string/status_history"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_marginTop="@dimen/margin_large"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</androidx.core.widget.NestedScrollView>
