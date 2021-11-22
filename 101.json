@@ -1,0 +1,540 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "ask": "Triết học có chức năng cơ bản nào?",
+      "op1": "Chức năng thế giới quan",
+      "op2": "Chức năng phương pháp luận chung nhất.",
+      "op3": "Cả a và b",
+      "op4": "Không có câu trả lời đúng",
+      "result": "c"
+    },
+    {
+      "id": 2,
+      "ask": "Nguồn gốc của chủ nghĩa duy tâm?",
+      "op1": "Do hạn chế của nhận thức con người về thế giới.",
+      "op2": "Sự phân chia giai cấp và sự tách rời đối lập giữa lao động trí óc và lao động chân tay trong xã hội có giai cấp đối kháng",
+      "op3": "Cả a và b",
+      "op4": "Khác",
+      "result": "c"
+    },
+    {
+      "id": 3,
+      "ask": "Trong xã hội có giai cấp, triết học:",
+      "op1": "Cũng có tính giai cấp.",
+      "op2": "Không có tính giai cấp.",
+      "op3": "Chỉ triết học phương tây mới có tính giai cấp.",
+      "op4": "Tùy từng học thuyết cụ thể.",
+      "result": "a"
+    },
+    {
+      "id": 4,
+      "ask": "Chọn luận điểm thể hiện lập trường triết học duy tâm lịch sử.",
+      "op1": "Quan hệ sản xuất mang tính chất vật chất.",
+      "op2": "Yếu tố kinh tề quyết định lịch sử.",
+      "op3": "Sự vận đồng, phát triển của xã hội, suy cho đến cùng là do tư tưởng của con người quyết định.",
+      "op4": "Kiến trúc thượng tầng chỉ đóng vai trò thụ động trong lịch sử.",
+      "result": "c"
+    },
+    {
+      "id": 5,
+      "ask": "Nhận định sau đây thuộc lập trường triết học nào?<br>“Nhân tố kinh tế là nhân tố quyết định duy nhất trong lịch sử.”",
+      "op1": "Chủ nghĩa duy vậy biện chứng.",
+      "op2": "Chủ nghĩa duy tâm chủ quan.",
+      "op3": "Chủ nghĩa duy tâm khách quan.",
+      "op4": "Chủ nghĩa duy vật tầm thường.",
+      "result": "d"
+    },
+    {
+      "id": 6,
+      "ask": "Phép biện chứng cổ đại là:",
+      "op1": "Biện chứng duy tâm.",
+      "op2": "Biện chứng ngây thơ, chất phác.",
+      "op3": "Biện chứng duy vật khoa học.",
+      "op4": "Biện chứng chủ quan.",
+      "result": "b"
+    },
+    {
+      "id": 7,
+      "ask": "Phép biện chứng của triết học Hêghen là:",
+      "op1": "Phép biện chứng duy tâm chủ quan.",
+      "op2": "Phép biện chứng duy vật hiện đại.",
+      "op3": "Phép biện chứng ngây thơ chất phác.",
+      "op4": "Phép biện chứng duy tâm khách quan.",
+      "result": "d"
+    },
+    {
+      "id": 8,
+      "ask": "Vận động của tự nhiên và lịch sử là sự tha hóa từ sự tự vận động của ý niệm tuyệt đối. Quan niệm trên thuộc lập trường triết học nào?",
+      "op1": "Chủ nghĩa duy vật.",
+      "op2": "Chủ nghĩa duy tâm chủ quan.",
+      "op3": "Chủ nghĩa duy tâm khách quan.",
+      "op4": "Chủ nghĩa nhị nguyên triết học.",
+      "result": "c"
+    },
+    {
+      "id": 9,
+      "ask": "Chọn cụm từ đúng để điền vào chỗ trống: “Điểm xuất phát của ……… là: sự khẳng định những sự vật và hiện tượng của tự nhiên đều bao gồm những mâu thuẫn vốn có của chúng”.",
+      "op1": "Phép siêu hình.",
+      "op2": "Phép biện chứng.",
+      "op3": "Phép biện chứng duy tâm.",
+      "op4": "Phép biện chứng duy vật.",
+      "result": "b"
+    },
+    {
+      "id": 10,
+      "ask": "Chọn cụm từ đúng điền vào chỗ trống: “Phép siêu hình đẩy lùi được ……… nhưng chính nó lại bị phép biện chứng hiện đại phủ định”.",
+      "op1": "Phép biện chứng duy tâm.",
+      "op2": "Phép biện chứng cổ đại.",
+      "op3": "Chủ nghĩa duy tâm.",
+      "op4": "Chủ nghĩa duy vật.",
+      "result": "b"
+    },
+    {
+      "id": 11,
+      "ask": "“Tất cả cái gì đang vận động, đều vận động nhờ một cái khác nào đó”.<br>Nhận định này gắn liện với hệ thồng triết học nào? Hãy chọn phương án sai.",
+      "op1": "Triết học duy vật.",
+      "op2": "Triết học duy tâm.",
+      "op3": "Triết học duy tâm khách quan.",
+      "op4": "Triết học duy tâm chủ quan.",
+      "result": "a"
+    },
+    {
+      "id": 12,
+      "ask": "Nên gắn ý kiến: “Nguyên nhân cao hơn, hoàn thiện hơn với kết quả của nó” với lập trường triết học nào?",
+      "op1": "Triết học duy tâm chủ quan.",
+      "op2": "Triết học duy tâm khách quan.",
+      "op3": "Triết học duy vật.",
+      "op4": "Khác.",
+      "result": "b"
+    },
+    {
+      "id": 13,
+      "ask": "Chọn nhận định theo quan điểm siêu hình.",
+      "op1": "Cái chung tồn tại một cách độc lập, không phụ thuộc vào cái riêng.",
+      "op2": "Cái chung không tồn tại một cách thực sự, trong hiện thực chỉ có cách sự vật đơn thuần nhất là tồn tại.",
+      "op3": "Cài chung chỉ tồn tại trong danh nghĩa do chủ thể đang nhận thức gắn cho sự vật như một thuật ngữ để biểu thị sự vật.",
+      "op4": "Khác.",
+      "result": "a"
+    },
+    {
+      "id": 14,
+      "ask": "Triết học có chức năng:",
+      "op1": "Thế giới khác quan.",
+      "op2": "Phương pháp luận.",
+      "op3": "Thế giới quan và phương pháp luận.",
+      "op4": "Khác.",
+      "result": "c"
+    },
+    {
+      "id": 15,
+      "ask": "Nội dung cơ bản của thế giới quan bao gồm:",
+      "op1": "Vũ trụ quan (triết học về giới tự nhiên).",
+      "op2": "Xã hội quan (triết học về xã hội).",
+      "op3": "Nhân sinh quan.",
+      "op4": "Cả a, b, c",
+      "result": "d"
+    },
+    {
+      "id": 16,
+      "ask": "Hạt nhân chủ yếu của thế giới quan là gì?",
+      "op1": "Các quan điểm xã hội – chính trị.",
+      "op2": "Các quan điểm triết học.",
+      "op3": "Các quan điểm mỹ học.",
+      "op4": "Cả a, b, c.",
+      "result": "b"
+    },
+    {
+      "id": 17,
+      "ask": "Vần đề cơ bản trong một thế giới quan cũng là vấn đề cơ bản của triết học?",
+      "op1": "Đúng.",
+      "op2": "Sai.",
+      "op3": "Khác.",
+      "result": "b"
+    },
+    {
+      "id": 18,
+      "ask": "Chọn câu trả lời đúng.",
+      "op1": "Thế giới quan là sự phản ánh của sự tồn tại vật chất và xã hội của con người dưới hình thức các quan niệm, quan điểm chung.",
+      "op2": "Thế giới quan trực tiếp phụ thuộc vào trình độ hiểu biết của con người đã đạt được trong một giai đoạn lịch sử nhất định.",
+      "op3": "Thế giới quan phụ thuộc vào chế độ xã hội đang thống trị.",
+      "op4": "Cả a, b, c.",
+      "result": "d"
+    },
+    {
+      "id": 19,
+      "ask": "Thế giới quan có ý nghĩa trên những phương diện nào?",
+      "op1": "Trên phương diện lý luận",
+      "op2": "Trên phương diện thực tiễn",
+      "op3": "Cả a và b",
+      "op4": "Khác.",
+      "result": "c"
+    },
+    {
+      "id": 20,
+      "ask": "Thế giới quan khoa học dựa trên lập trường triết học nào?",
+      "op1": "Chủ nghĩa duy tâm chủ quan.",
+      "op2": "Chủ nghĩa duy tâm khác quan.",
+      "op3": "Chủ nghĩa duy vật.",
+      "op4": "Khác.",
+      "result": "c"
+    },
+    {
+      "id": 21,
+      "ask": "Triết học bao gồm quan điểm chung nhất, những sự lý giải có luận chứng cho các câu hõi chung của con người, nên triết học bao gồm toàn bộ tri thức của nhân loại.<br>Kết luận trên ứng với triết học thời kỳ nào?<br>Chọn câu trả lời đúng:",
+      "op1": "Triết học cổ đại.",
+      "op2": "Triết học Phục Hưng.",
+      "op3": "Triết học Trung cổ Tây Âu.",
+      "op4": "Triết học Mác – Lênin.",
+      "result": "a"
+    },
+    {
+      "id": 22,
+      "ask": "“Triết học Mác – Lênin là khoa học của mọi khoa học”.",
+      "op1": "Đúng.",
+      "op2": "Sai.",
+      "op3": "Khác.",
+      "result": "b"
+    },
+    {
+      "id": 23,
+      "ask": "Xác định quan điểm duy vật biện chứng trong số luậ điểm sau:",
+      "op1": "Thế giới thống nhất ở tính tồn tại của nó.",
+      "op2": "Thế giới thống nhất ở nguồn gốc tính thần.",
+      "op3": "Thế giới thống nhất ở tính vật chất.",
+      "op4": "Thế giới thống nhất ở sự suy nghĩ về nó như là cái thống nhất.",
+      "result": "c"
+    },
+    {
+      "id": 24,
+      "ask": "Việc thừa nhận hay không thừa nhận tính thống nhất của thế giới có phải là sự khác nhau căn bản giữa chủ nghĩa duy vật và chủ nghĩa duy tâm hay không?",
+      "op1": "Có.",
+      "op2": "Không",
+      "op3": "Khác",
+      "result": "b"
+    },
+    {
+      "id": 25,
+      "ask": "Tính đúng đắn trong quan niệm về vật chất của các nhà triết học duy vật thời kỳ cổ đại là:",
+      "op1": "Xuất phát từ thế giới vật chất để khái quát quan niệm về vật chất.",
+      "op2": "Xuất phát từ kinh nghiệm thực tiễn.",
+      "op3": "Xuất phát từ tư duy.",
+      "op4": "Cả a và b.",
+      "result": "d"
+    },
+    {
+      "id": 26,
+      "ask": "Khi khoa học tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một thành phần cấu tạo nên nguyên tử. Theo V.I.Lênin điều đó chứng tỏ gì?",
+      "op1": "Vật chất không tồn tại thật sự",
+      "op2": "Vật chất tiêu tan mất.",
+      "op3": "Giới hạn hiểu biết trước đây của chúng ta về vật chất mất đi.",
+      "op4": "Vật chất có tồn tại thực sự nhưng không thể nhận thức được.",
+      "result": "c"
+    },
+    {
+      "id": 27,
+      "ask": "Những phát minh của vật lý học cận đại đã bác bỏ khuynh hướng triết học nào?",
+      "op1": "Duy vật chất phác.",
+      "op2": "Duy vật siêu hình.",
+      "op3": "Duy vật biện chứng",
+      "op4": "Duy vật chất phác và duy vật siêu hình.",
+      "result": "d"
+    },
+    {
+      "id": 28,
+      "ask": "Khái niệm trung tâm mà V.I.Lênin sử dụng để định nghĩa về vật chất là khái niệm nào?",
+      "op1": "Phạm trù triết học.",
+      "op2": "Thực tại khách quan.",
+      "op3": "Cảm giác",
+      "op4": "Phản ánh.",
+      "result": "b."
+    },
+    {
+      "id": 29,
+      "ask": "Trong định nghĩa về vật chất của mình, V.I.Lênin cho thuộc tính chung nhất của vật chất là:",
+      "op1": "Tự vận động.",
+      "op2": "Cùng tồn tại.",
+      "op3": "Đều có khả năng phản ánh.",
+      "op4": "Tồn tại khách quan bên ngoài ý thức, không lệ thuộc vào cảm giác.",
+      "result": "d"
+    },
+    {
+      "id": 30,
+      "ask": "Xác định mệnh đề sai:",
+      "op1": "Vật thể không phải là vật chất.",
+      "op2": "Vật chất không phải chỉ là một dạng tồn tại là vật thể.",
+      "op3": "Vật thể là dạng cụ thể của vật chất.",
+      "op4": "Vật chất tồn tại thông qua những dạng cụ thể của nó.",
+      "result": "a"
+    },
+    {
+      "id": 31,
+      "ask": "Xác định mệnh đề đúng theo quan điểm duy vật biện chứng.",
+      "op1": "Phản điện tử, phản hạt nhân là phi vật chất.",
+      "op2": "Phản điện tử, phản hạt nhân là thực tại khách quan, là dạng cụ thể của vật chất.",
+      "op3": "Phản vật chất là sự tưởng tượng thuần túy của các nhà vật lý học.",
+      "op4": "Phản vật chất không phải là vật chất.",
+      "result": "b"
+    },
+    {
+      "id": 32,
+      "ask": "Sai lầm của các các nhà triết học cổ đại trong quan niệm về vật chất:",
+      "op1": "Đồng nhất vật chất với một số dạng vật thể cụ thể, cảm tính.",
+      "op2": "Vật chất là tất cả cái tồn tại khách quan.",
+      "op3": "Vật chất là cái có thể nhận thức được.",
+      "op4": "Vật chất tự thân vận động.",
+      "result": "a"
+    },
+    {
+      "id": 33,
+      "ask": "Tồn tại khách quan là tồn tại như thế nào?",
+      "op1": "Tồn tại bên ngoài ý thức của con người, không phụ thuộc vào ý thức của con người, độc lập vào ý thức của con người.",
+      "op2": "Được ý thức của con người phản ánh.",
+      "op3": "Tồn tại không thể nhận thức được.",
+      "op4": "Cả a và b.",
+      "result": "d"
+    },
+    {
+      "id": 34,
+      "ask": "Mệnh đề nào đúng?",
+      "op1": "Vật chất là cái tồn tại.",
+      "op2": "Vật chất là cái không tồn tại.",
+      "op3": "Vật chất là cái tồn tại khách quan.",
+      "result": "c"
+    },
+    {
+      "id": 35,
+      "ask": "Bản chất của thế giới là vật chất, thế giới thống nhất ở tính vật chất. Điều đó thể hiện ở chỗ:",
+      "op1": "Chỉ có một thế giới duy nhất là thế giới vật chất.",
+      "op2": "Tất cả mọi sự vật, hiện tượng của thế giới chỉ là những hình thức biếu hiện đa dạng của vật chất với những mối liên hệ vật chất và tuân theo quy luật khách quan.",
+      "op3": "Thế giới vật chất tồn tại vĩnh viễn, vô hạn và vô tận.",
+      "op4": "Thể hiện ở cả 1, 2, 3.",
+      "result": "d"
+    },
+    {
+      "id": 36,
+      "ask": "Theo Ph. A8ngghen, tính thống nhất vật chất của thế giới được chứng minh bởi:",
+      "op1": "Thực tiễn lịch sử.",
+      "op2": "Thực tiễn cách mạng.",
+      "op3": "Sự phát triển lâu dài của khoa học.",
+      "op4": "Sự phát triển lâu dài và khó khăn của triết học và khoa học tự nhiên.",
+      "result": "d"
+    },
+    {
+      "id": 37,
+      "ask": "Trung tâm định nghĩa vật chất của V.I.Lê nin là cụm từ nào?",
+      "op1": "Thực tại khách quan.",
+      "op2": "Phạm trù triết học.",
+      "op3": "Được đem lại cho con người trong cảm giác.",
+      "op4": "Không lệ thuộc vào cảm giác.",
+      "result": "a"
+    },
+    {
+      "id": 38,
+      "ask": "Thuộc tính cơ bản nhất của vật chất nhờ đó phân biệt vật chất với ý thức đả được V.I.Lê nin xác định trong định nghĩa vật chất là thuộc tính:",
+      "op1": "Tồn tại.",
+      "op2": "Tồn tại khách quan.",
+      "op3": "Có thể nhận thức được.",
+      "op4": "Tính đa dạng.",
+      "result": "b"
+    },
+    {
+      "id": 39,
+      "ask": "Xác định nội dung cơ bản trong định nghĩa của V.I.Lê nin về vật chất:",
+      "op1": "Thực tại khách quan.",
+      "op2": "Thực tại khách quan tồn tại độc lập với cảm giác.",
+      "op3": "Thực tại khách quan – tồn tại độc lập với ý thức và khi tác động đến giác quan con người thì có thể sinh ra cảm giác.",
+      "op4": "Tồn tại khách quan nhưng không thể nhận biết ra nó vì thực tại đó là một sự trừu tượng của tư duy.",
+      "result": "c"
+    },
+    {
+      "id": 40,
+      "ask": "Hạn chế trong quan niệm của các nhà triết học duy vật thời cận đại Tây Âu là ở chỗ",
+      "op1": "Coi vận động của vật chất là vận động cơ giới.",
+      "op2": "Coi vận động là thuộc tính vốn có của vật thể.",
+      "op3": "Coi vận động là phương thức tồn tại của vật chất.",
+      "op4": "Cả a, b, c.",
+      "result": "a"
+    },
+    {
+      "id": 41,
+      "ask": "Hai mệnh đề “Vận động là thuộc tính cố hữu của vật chất” và “Vận động là phương thức tồn tại của vật chất” được hiểu là:",
+      "op1": "Vật chất tồn tại bằng cách vận động.",
+      "op2": "Vật chất biểu hiện sự tồn tại cụ thể, đa dạng thông qua vận động.",
+      "op3": "Không thể có vận động phi vật chất cũng như không thể có vật chất không vận động.",
+      "op4": "Cả a, b, c.",
+      "result": "d"
+    },
+    {
+      "id": 42,
+      "ask": "Nếu không thể thừa nhận vật chất tự thân vận động thì nhất định quan điểm duy tâm về nguồn gốc của vận động của vật chất, vì:",
+      "op1": "Sẽ phải thừa nhận nguyên nhân của vật chất là từ ý thức.",
+      "op2": "Sẽ phải thừa nhận nguyên nhân cuối cùng của mọi vận động vật chất là từ ý thức.",
+      "op3": "Sẽ phải thừa nhận vật chất không vận động.",
+      "op4": "Sẽ phải thừa nhận nguyên nhân vận động của vật chất là từ Thượng Đế.",
+      "result": "b"
+    },
+    {
+      "id": 43,
+      "ask": "Đứng im là:",
+      "op1": "Tuyệt đối.",
+      "op2": "Tương đối.",
+      "op3": "Vừa tuyệt đối vừa tương đối.",
+      "op4": "Không có câu trả lời đúng.",
+      "result": "b"
+    },
+    {
+      "id": 44,
+      "ask": "Không gian và thời gian:",
+      "op1": "Không gian là hình thức tồn tại của vật chất, còn thời gian là phương thức tồn tại của vật chất.",
+      "op2": "Không gian là phương thức tồn tại của vật chất, còn thời gian là hình thức tồn tại của vật chất",
+      "op3": "Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất.",
+      "op4": "Không gian và thời gian là những phương thức cơ bản của tồn tại vật chất.",
+      "result": "c"
+    },
+    {
+      "id": 45,
+      "ask": "Theo quan điểm của triết học Mác – Lê nin, thuộc tính phản ánh là thuộc tính:",
+      "op1": "Riêng có ở con người.",
+      "op2": "Chỉ có ở các cơ thể sống.",
+      "op3": "Chỉ có ở vật chất vô cơ.",
+      "op4": "Phổ biến ở mọi tố chức vật chất.",
+      "result": "d"
+    },
+    {
+      "id": 46,
+      "ask": "Sự tiến hóa của các hình thức phản ánh của vật",
+      "op1": "Quá trình tiến hóa – phát triển của các dạng vật chất giới tự nhiên.",
+      "op2": "Quá trình tiến hóa – phát triển của các giống loài sinh vật.",
+      "op3": "Quá trình tiến hóa – phát triển của thế giới.",
+      "op4": "Cả a, b, c.",
+      "result": "a"
+    },
+    {
+      "id": 47,
+      "ask": "Khái quát nguồn gốc tự nhiên của ý thức:",
+      "op1": "Nguồn gốc tự nhiên và ngôn ngữ.",
+      "op2": "Nguồn gốc tự nhiên và xã hội.",
+      "op3": "Nguồn gốc lịch sử – xã hội và hoạt động của bộ não con người.",
+      "op4": "Cả b và c.",
+      "result": "b"
+    },
+    {
+      "id": 48,
+      "ask": "Nhân tố cơ bản, trực tiếp tạo thành nguồn gốc xã hội của ý thức:",
+      "op1": "Lao động và ngôn ngữ.",
+      "op2": "Lao động trí óc và lao động chân tay.",
+      "op3": "Thực tiễn kinh tế và lao động.",
+      "op4": "Lao động và nghiên cứu khoa học.",
+      "result": "a"
+    },
+    {
+      "id": 49,
+      "ask": "Nguồn gốc xã hội trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức là",
+      "op1": "Lao động trí óc.",
+      "op2": "Thực tiễn.",
+      "op3": "Giáo dục.",
+      "op4": "Nghiên cứu khoa học.",
+      "result": "b"
+    },
+    {
+      "id": 50,
+      "ask": "Ngôn ngữ đóng vai trò là:",
+      "op1": "“Cái vỏ vật chất” của ý thức.",
+      "op2": "Nội dung của ý thức.",
+      "op3": "Nội dung trung tâm của ý thức.",
+      "op4": "Cả a, b, c.",
+      "result": "a"
+    },
+    {
+      "id": 51,
+      "ask": "Theo quan điểm của triết học Mác – Lê nin: ý thức là:",
+      "op1": "Một dạng tồn tại của vật chất.",
+      "op2": "Dạng vật chất đặc biệt mà người ta không thể dùng giác quan trực tiếp để cảm nhận.",
+      "op3": "Sự phản ánh tinh thần của con người về thế giới.",
+      "op4": "Cả a, b, c.",
+      "result": "c"
+    },
+    {
+      "id": 52,
+      "ask": "Chọn từ phù hợp điền vào câu sau cho đúng với quan điểm duy vật biện chứng: “Ý thức chẳng qua là…. được di chuyển vào bộ óc con người và được cải biến ở trong đó”.",
+      "op1": "Vật chất.",
+      "op2": "Cái vật chất.",
+      "op3": "Vật thể.",
+      "op4": "Thông tin.",
+      "result": "b"
+    },
+    {
+      "id": 53,
+      "ask": "Bản chất của ý thức được thể hiện ở đặc trưng nào?",
+      "op1": "Tính phi cảm giác",
+      "op2": "Tính sáng tạo",
+      "op3": "Tính xã hội",
+      "op4": "Cả a, b, c.",
+      "result": "d"
+    },
+    {
+      "id": 54,
+      "ask": "Ý thức:",
+      "op1": "Có thể sáng tạo ra thế giới khách quan.",
+      "op2": "Không thể sáng tạo ra thế giới khách quan.",
+      "op3": "Có thể sáng tạo ra thế giới khách quan thông qua thực tiễn.",
+      "op4": "Không có ý kiến đúng",
+      "result": "c"
+    },
+    {
+      "id": 55,
+      "ask": "Tri thức đóng vai trò là:",
+      "op1": "Nội dung cơ bản của ý thức.",
+      "op2": "Phương thức tồn tại của ý thức",
+      "op3": "Cả a và b",
+      "op4": "Không có ý kiến đúng.",
+      "result": "c"
+    },
+    {
+      "id": 56,
+      "ask": "Mối quan hệ biện chứng giữa vật chất và ý thức được thực hiện thông qua:",
+      "op1": "Sự suy nghĩ của con người.",
+      "op2": "Hoạt động thực tiễn",
+      "op3": "Hoạt động lý luận.",
+      "op4": "Cả a, b, c.",
+      "result": "b"
+    },
+    {
+      "id": 57,
+      "ask": "Sự thông thái của con người:",
+      "op1": "Được thể hiện nhiều hơn trong hoạt động nghiên cứu lý luận.",
+      "op2": "Được thể hiện nhiều hơn trong hoạt động thực tiễn.",
+      "op3": "Được thể hiện nhiều hơn trong hoạt động lý luận.",
+      "op4": "Được thể hiện nhiều hơn trong hoạt động thực tiễn.",
+      "result": "d"
+    },
+    {
+      "id": 58,
+      "ask": "Phương pháp luận chung của chủ nghĩa duy vật là trong nhận thức và thực tiễn cần:",
+      "op1": "Xuất phát từ thực tế khách quan.",
+      "op2": "Phát huy năng động chủ quan.",
+      "op3": "Xuất phát từ thực tế khách quan đồng thời phát huy năng động chủ quan.",
+      "op4": "Phát huy năng động chủ quan trên cơ sở tôn trọng thực tế khách quan.",
+      "result": "a"
+    },
+    {
+      "id": 59,
+      "ask": "Để phát huy vai trò tích cực của ý thức trong thực tiễn cần phải:",
+      "op1": "Có ý thức phản ánh đúng thực tại khách quan.",
+      "op2": "Có một tư tưởng sáng tạo.",
+      "op3": "Ý thức phải được vật chất hoá trong thực tiễn.",
+      "op4": "Cả 3 phương án trên.",
+      "result": "d"
+    },
+    {
+      "id": 60,
+      "ask": "Theo quan điểm duy vật biện chứng, trong nhận thức và thực tiễn cần:",
+      "op1": "Phát huy tính năng động chủ quan.",
+      "op2": "Xuất phát từ thực tế khách quan.",
+      "op3": "Cả a và b",
+      "op4": "Không có phương án đúng.",
+      "result": "c"
+    }
+  ]
+}

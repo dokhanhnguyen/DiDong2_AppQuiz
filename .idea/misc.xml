@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/drawable/bg_border_all.xml" value="0.2703125" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/drawable/bg_border_all_corner_20_blue.xml" value="0.2703125" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_change_pass_word.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_exam.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_import.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_importdeon.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_onthionline.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_practice.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_quiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_registation.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/activity_timgiaovien.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/appbar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/base_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/dialog_caution.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/dialog_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/dialog_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/dialog_subject.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/dialog_toggle.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_imported.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_importedgv_fregment.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/fragment_scoreboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_exam.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_exam_imported.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_faculty.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_history.xml" value="0.1" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_number_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_option_title.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_option_value.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_score.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_subject.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_subject_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/item_year.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/merge_layout_status.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/menu/menu_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/menu/menu_practice.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppChoiceQuiz/app/src/main/res/menu/menu_profile.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
   <component name="EntryPointsManager">
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="org.greenrobot.eventbus.Subscribe" />
@@ -10,7 +63,7 @@
     <option name="myDefaultNotNull" value="androidx.annotation.RecentlyNonNull" />
     <option name="myNullables">
       <value>
-        <list size="12">
+        <list size="15">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
           <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
           <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
@@ -23,12 +76,15 @@
           <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
           <item index="10" class="java.lang.String" itemvalue="android.annotation.Nullable" />
           <item index="11" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="14" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
         </list>
       </value>
     </option>
     <option name="myNotNulls">
       <value>
-        <list size="11">
+        <list size="15">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
           <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
           <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
@@ -40,6 +96,10 @@
           <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
           <item index="9" class="java.lang.String" itemvalue="android.annotation.NonNull" />
           <item index="10" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="14" class="java.lang.String" itemvalue="lombok.NonNull" />
         </list>
       </value>
     </option>
