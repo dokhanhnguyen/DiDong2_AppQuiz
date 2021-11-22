@@ -176,7 +176,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             }
         });
     }
-
+   //ktra mail gv
     public void kiemtraGV()
     {
         pref = new Pref(this);

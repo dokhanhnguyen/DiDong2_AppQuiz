@@ -131,7 +131,7 @@ public class ExamActivity extends AppCompatActivity implements OnSubjectListener
         tvStatus = findViewById(R.id.tv_status);
         tvAction = findViewById(R.id.tv_action);
     }
-
+    //Duc
     //chặn nhập  ký tự đặc biệt trong Mã GV
     private String blockCharacterSet = ".~#^|$%&*!";
     private InputFilter filter = new InputFilter() {
